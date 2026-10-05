@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.10",
+  "latest_version": "1.0.12",
   "minimum_required_version": "1.0.0",
   "update_message": "A newer version of Tune Seeder is available. Please update to get the latest fixes and improvements.",
-  "macos_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v1.0.10/Tune-Seeder-1.0.10.dmg",
-  "windows_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v1.0.10/Tune-Seeder-1.0.10-Windows-Setup.exe"
+  "macos_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v1.0.12/Tune-Seeder-1.0.12.dmg",
+  "windows_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v1.0.12/Tune-Seeder-1.0.12-Windows-Setup.exe"
 }
