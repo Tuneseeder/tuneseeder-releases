@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.6.1",
+  "latest_version": "2.7.0",
   "minimum_required_version": "1.0.0",
-  "update_message": "Tune Seeder v2.6.1 is available. Tag Flow now starts collapsed; use Open/Close whenever you want to show or hide your tags. Update when convenient.",
-  "macos_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.6.1/Tune-Seeder-2.6.1.dmg",
-  "windows_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.6.1/Tune-Seeder-2.6.1-Windows-Setup.exe"
+  "update_message": "Tune Seeder v2.7.0 is available: Studio Export, chosen album folders, clean numbered WAV filenames and faster export defaults. Update when convenient.",
+  "macos_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.0/Tune-Seeder-2.7.0.dmg",
+  "windows_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.0/Tune-Seeder-2.7.0-Windows-Setup.exe"
 }
