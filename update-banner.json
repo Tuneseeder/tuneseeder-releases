@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.7.1",
+  "latest_version": "2.7.2",
   "minimum_required_version": "1.0.0",
-  "update_message": "Tune Seeder v2.7.1 is available: Auto Seed title/style fixes, Saved lyrics handling, Scan playlist stability and clearer export controls. Update when convenient.",
-  "macos_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.1/Tune-Seeder-2.7.1.dmg",
-  "windows_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.1/Tune-Seeder-2.7.1-Windows-Setup.exe"
+  "update_message": "Tune Seeder v2.7.2 is available: Playlist Library, an updated Voice Persona picker, and MP3 and WAV playlist download improvements. Update when convenient.",
+  "macos_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.2/Tune-Seeder-2.7.2.dmg",
+  "windows_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.2/Tune-Seeder-2.7.2-Windows-Setup.exe"
 }
