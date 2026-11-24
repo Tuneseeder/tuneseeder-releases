@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.7.2",
+  "latest_version": "2.7.3",
   "minimum_required_version": "1.0.0",
-  "update_message": "Tune Seeder v2.7.2 is available: Playlist Library, an updated Voice Persona picker, and MP3 and WAV playlist download improvements. Update when convenient.",
-  "macos_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.2/Tune-Seeder-2.7.2.dmg",
-  "windows_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.2/Tune-Seeder-2.7.2-Windows-Setup.exe"
+  "update_message": "Tune Seeder v2.7.3 is available: built-in DistroKid and LANDR panels, LANDR WAV and title handoff, and Refresh personas. Update when convenient.",
+  "macos_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.3/Tune-Seeder-2.7.3.dmg",
+  "windows_download_url": "https://github.com/Tuneseeder/tuneseeder-releases/releases/download/v2.7.3/Tune-Seeder-2.7.3-Windows-Setup.exe"
 }
